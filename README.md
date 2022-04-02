@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Christian, aka @Thrizadon
+- 👋 Hi, I’m Christian
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python, Machine Learning, and PowerBI
 - 💞️ 
-- 📫 Reach me at my twitter: https://twitter.com/therizdon
+- 📫 Reach me at: halllchris99@gmail.com
 
 <!---
 Thrizadon/Thrizadon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
